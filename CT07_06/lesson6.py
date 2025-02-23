@@ -40,3 +40,6 @@ students = [
    
 #    e.g. Olivia F
 #         Noah M
+
+for student in students:
+    name
