@@ -51,4 +51,4 @@ if gender == 'm':
     boy.append(name)
 
 # print ('gender of ' + (name) + ':' +(gender)) 
-print
+print (boy)
