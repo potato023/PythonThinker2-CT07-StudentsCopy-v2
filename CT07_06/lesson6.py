@@ -13,4 +13,5 @@ contact3 = ["Sylvia", 87894032, "sylvia@gmail.com"]
 #    the details for each contact
 
 contacts.append(contact1)
+
 print (contacts)
