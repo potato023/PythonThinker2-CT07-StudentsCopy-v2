@@ -12,4 +12,4 @@ contact3 = ["Sylvia", 87894032, "sylvia@gmail.com"]
 # 2. Write a nested loop to loop through each contact and print
 #    the details for each contact
 
-contacts = contacts.a
+contacts = contacts.append(contact1)
