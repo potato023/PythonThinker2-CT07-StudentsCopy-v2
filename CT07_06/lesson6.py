@@ -42,4 +42,4 @@ students = [
 #         Noah M
 
 for student in students:
-    name, 
+    name, gender = students
