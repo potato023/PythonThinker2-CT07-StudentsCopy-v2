@@ -45,10 +45,7 @@ boy = []
 for student in students:
     name, gender = student
 
-if gender == 'f':
-    girl.append(name)
-if gender == 'm':
-    boy.append(name)
+
 
 # print ('gender of ' + (name) + ':' +(gender)) 
 print (boy)
