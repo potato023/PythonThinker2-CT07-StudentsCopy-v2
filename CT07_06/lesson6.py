@@ -40,7 +40,7 @@ students = [
    
 #    e.g. Olivia F
 #         Noah M
-dirl = {}
+girl = []
 for student in students:
     name, gender = student
 
