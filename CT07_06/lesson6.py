@@ -11,3 +11,4 @@ print("Hello from lesson 6")
 # 1. append contact1, contact2, and contact3 into contacts
 # 2. Write a nested loop to loop through each contact and print
 #    the details for each contact
+
