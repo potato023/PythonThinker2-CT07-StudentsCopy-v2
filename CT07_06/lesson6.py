@@ -46,4 +46,4 @@ for student in students:
 
 
 
-print ('gender')
+print ('gender of' + )
