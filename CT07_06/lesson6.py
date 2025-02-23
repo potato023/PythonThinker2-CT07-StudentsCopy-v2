@@ -30,6 +30,8 @@ students = [
     ["Aiden", "M"], ["Isabella", "F"], ["Jackson", "M"],
     ["Amelia", "F"], ["Logan", "M"], ["Lily", "F"]
 ]
+
+
 ### the above is a nested list. Study and discuss it before we
 ### move on.
 
