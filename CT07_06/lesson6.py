@@ -44,6 +44,6 @@ students = [
 for student in students:
     name, gender = students
 
-    
 
-print ()
+
+print (name)
