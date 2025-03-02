@@ -10,6 +10,9 @@ for fruit in list1:
         if fruit == fruit2:
             common.append(fruit)
 
+
+
+
 print ("common")
 
 
