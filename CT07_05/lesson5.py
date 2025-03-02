@@ -1,4 +1,4 @@
-import random
+
 pokemons = [
     "Pikachu", "Charizard", "Bulbasaur", "Squirtle",
     "Jigglypuff", "Meowth", "Psyduck", "Eevee", "Snorlax",
