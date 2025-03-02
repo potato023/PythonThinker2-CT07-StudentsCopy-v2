@@ -6,7 +6,7 @@
 
 # for fruit in list1:
 #     fruit2 in list2:
-#     if fruit == fruit2 = true:
+#     if fruit == fruit2:
 #         common.append(fruit)
 
 print ("common")
