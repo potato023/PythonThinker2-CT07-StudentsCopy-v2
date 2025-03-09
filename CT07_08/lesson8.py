@@ -22,6 +22,6 @@
 
 order = []
 
-order.append()
+order.append((input('what do you want to order? ')))
 
 
