@@ -37,5 +37,5 @@ print (odd)
 
 poo = index.odd(1)
 
-print(1)
+print(poo)
 
