@@ -21,8 +21,14 @@
 
 
 order = []
+food = ()
+
+while food is not end:
+    order.append(food)
 
 
-order.append((input('what do you want to order? ')))
+
+food = (input('what do you want to order? '))
 
 
+print (order)
