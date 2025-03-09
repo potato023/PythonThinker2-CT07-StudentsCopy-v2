@@ -13,7 +13,8 @@ while hp > 0:
     (turns) = (turns) + 1
     if hp < 1:
         print (turns)
-    print (hp)
+    else:
+        print (hp)
 
 
 
