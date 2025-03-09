@@ -7,7 +7,7 @@ turns = 0
 
 
 
-for i in hp:
+for i in (hp):
     if hp > 0:
         (hp) = (hp) - random.randint(1,15)
         (turns) = (turns) + 1
