@@ -20,6 +20,5 @@ while hp > 0:
 
 
 
-print (turns) 
-print (hp)
+
 
