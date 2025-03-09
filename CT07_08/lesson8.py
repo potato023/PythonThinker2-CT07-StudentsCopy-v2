@@ -30,4 +30,15 @@
 
 # print (order)
 
-p13 = false
+# p13 =false
+correct = False
+hiddenpwd = "computhink"
+
+# Password validation
+while not correct:
+	userpwd = input("What is the password? ")
+
+if userpwd == hiddenpwd:
+	correct = True
+
+print("Access granted")
