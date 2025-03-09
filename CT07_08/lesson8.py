@@ -1,5 +1,5 @@
 
 
-import random.ra
+import random.randint
 hp = 100
 print (hp)
