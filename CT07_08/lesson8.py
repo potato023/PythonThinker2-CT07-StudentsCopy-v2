@@ -5,8 +5,6 @@ hp = 100
 turns = 0
 
 
-
-
 for i in (hp):
     if hp > 0:
         (hp) = (hp) - random.randint(1,15)
