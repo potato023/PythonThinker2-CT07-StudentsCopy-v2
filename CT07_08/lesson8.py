@@ -3,6 +3,6 @@
 import random.randint
 hp = 100
 
-test = 
+test = (1)
 
 print (test)
