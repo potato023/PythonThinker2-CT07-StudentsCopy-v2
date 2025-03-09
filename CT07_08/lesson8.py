@@ -12,6 +12,14 @@ if hp > 0:
 elif hp < 1:
     print (turns)
 
+for i in hp:
+    if hp > 0:
+        (hp) = (hp) - random.randint(1,15)
+        (turns) = (turns) + 1
+        print (hp)
+    elif hp < 1:
+        print (turns)
+
 
 
 
