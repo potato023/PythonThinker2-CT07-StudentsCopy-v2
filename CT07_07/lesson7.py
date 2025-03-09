@@ -35,7 +35,7 @@ for num in list1:
 print (even)
 print (odd)
 
-poo = odd.index(0)
+poo = odd.index(2)
 
 print(poo)
 
