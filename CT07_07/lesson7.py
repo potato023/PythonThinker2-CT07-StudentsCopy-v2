@@ -33,5 +33,7 @@ for num in list1:
 
 
 print (even)
-print (o)
+print (odd)
+
+
 
