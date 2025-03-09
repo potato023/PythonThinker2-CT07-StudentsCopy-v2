@@ -33,6 +33,5 @@ for num in list1:
 
 
 print (even)
-print (odd)
+print (o)
 
-list1.index
