@@ -30,8 +30,3 @@
 
 # print (order)
 
-
-word = "peanut"
-i = 0
-while i < 10:
-	print(word[i])
