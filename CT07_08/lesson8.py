@@ -6,7 +6,7 @@ turns = 0
 
 
 if hp > 0:
-    random.randint(1,2)
-    
+    (hp) - random.randint(1,2)
+
 
 # print (test)
