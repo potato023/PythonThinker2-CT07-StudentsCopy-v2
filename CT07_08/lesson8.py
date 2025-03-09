@@ -19,8 +19,7 @@
 #         print ('you now have ' , (hp) , ' left')
 
 
-age = (input('how old are you'))
 
-print (age)
+order
 
 
