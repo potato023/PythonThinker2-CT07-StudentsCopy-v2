@@ -35,5 +35,5 @@ for num in list1:
 print (even)
 print (odd)
 
-index.odd
+1 = index.odd(1)
 
