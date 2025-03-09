@@ -9,4 +9,10 @@ if hp > 0:
     (hp) - random.randint(1,15)
     (turns) + 1
 
+
+
+
+
+print (turns) 
+print (hp)
 # print (test)
