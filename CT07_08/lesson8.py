@@ -19,7 +19,7 @@ while hp > 0:
         print ('you now have ' , (hp) , ' left')
 
 
-
+age = int()
 
 
 
