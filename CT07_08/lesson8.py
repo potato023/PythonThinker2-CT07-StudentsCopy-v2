@@ -20,12 +20,18 @@
 
 
 
-order = []
-food = ()
+# order = []
+# food = ()
 
-while food is not 'end':
-    order.append(food)
+# while food is not 'end':
+#     order.append(food)
 
-food = (input('what do you want to order? '))
+# food = (input('what do you want to order? '))
 
-print (order)
+# print (order)
+
+
+word = "peanut"
+i = 0
+while i < 10:
+	print(word[i])
