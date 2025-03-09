@@ -23,7 +23,7 @@
 order = []
 food = ()
 
-while food is not 'end':
+while food is not ('end'):
     order.append(food)
 
 
