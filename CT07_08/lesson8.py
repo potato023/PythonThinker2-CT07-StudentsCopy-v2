@@ -22,6 +22,7 @@
 
 order = []
 
+for i in 
 order.append((input('what do you want to order? ')))
 
 
