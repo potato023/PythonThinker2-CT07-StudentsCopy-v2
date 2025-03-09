@@ -13,8 +13,8 @@ while hp > 0:
     (turns) = (turns) + 1
     if hp < 1:
         print ('you have lasted '  ,(turns),  ' turns')
-    # else:
-    #     print ('you now have ' , (hp) , ' left')
+    else:
+        print ('you now have ' , (hp) , ' left')
 
 
 
